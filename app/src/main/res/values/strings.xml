@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Water Time</string>
+    <string name="hint_peso">Seu peso (KG)</string>
+    <string name="hint_idade">Sua Idade</string>
+    <string name="text_button_calcular">Calcular Ingestão Diária</string>
+    <string name="text_button_lembrete">Lembrete</string>
+    <string name="text_button_alarme">Alarme</string>
+    <string name="_3008_6_ml">3008,6 ml</string>
+    <string name="todo">TODO</string>
+    <string name="txt_hora">00</string>
+    <string name="txt_dois_pontos">:</string>
+    <string name="txt_minutos">00</string>
+    <string name="toast_informe_peso">Informe seu peso</string>
+    <string name="toast_informe_idade">Informe sua idade</string>
+    <string name="dialog_titulo">Redefinir Dados</string>
+    <string name="dialog_descr">Deseja excluir todos os dados existentes</string>
+    <string name="alarme_mensagem">Hora de beber água!</string>
+    <string name="hint">hint</string>
+    <string name="img">TODO</string>
+    <string name="_00">00</string>
+    <string name="hora">00</string>
+    <string name="digite_sua_idade">Digite sua idade</string>
+    <string name="dois_pontos">:</string>
+    <string name="resfresh">TODO</string>
+
+
+</resources>
